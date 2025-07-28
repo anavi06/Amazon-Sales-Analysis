@@ -29,8 +29,11 @@ https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sal
 ## Project Structure
 
 -'Amazon_cleaned_sales.xlsx' :Cleaned dataset
+
 -'AmazonSales.ipynb' : Jupyter notebook where data cleaning and EDA has been performed
+
 -'AmazonSales.sql' : Analysis also done using SQL queries on SQL Server
+
 -'AmazonSales_Dashboard.png' : An image of final Tableau dashboard
 
 ## What Was Done?
